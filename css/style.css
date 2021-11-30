@@ -1,0 +1,23 @@
+.purple{
+    color:purple;
+}
+.red{
+    color:red;
+}
+.BGblue{
+    background-color: aqua;
+}
+
+.moveTitleRight{
+    display:flex;
+    justify-content: end;
+}
+.moveTitleLeft{
+    display:flex;
+    justify-content: start;
+}
+
+.changeTitle{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:darkblue
+}
